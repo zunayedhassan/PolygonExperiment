@@ -15,3 +15,11 @@ Sorts randomly positioned vertices to clockwise or counter clockwise order
 The algorithm is in PolygonExperiment/VertexSorting/src/zunayedhassan/VertexSorting/Model/VertexSortingHelper.java file
 
 ![Vertex Sorting preview](https://raw.githubusercontent.com/zunayedhassan/PolygonExperiment/master/VertexSorting/preview.png)
+
+## Lasso Tool Example
+Implementation of Lasso Tool on JavaFX
+
+### Usage ###
+Just look at the ```FreeHandSelector.java``` file and you will fugure this out.
+
+![alt tag](https://raw.githubusercontent.com/zunayedhassan/Lasso-Tool-Example/master/preview.jpg)
