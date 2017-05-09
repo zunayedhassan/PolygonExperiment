@@ -12,4 +12,6 @@ To get about how things done, please visit PolygonExperiment/PolygonConverter/sr
 ## Vertex Sorting
 Sorts randomly positioned vertices to clockwise or counter clockwise order
 
+The algorithm is in PolygonExperiment/VertexSorting/src/zunayedhassan/VertexSorting/Model/VertexSortingHelper.java file
+
 ![Vertex Sorting preview](https://raw.githubusercontent.com/zunayedhassan/PolygonExperiment/master/VertexSorting/preview.png)
