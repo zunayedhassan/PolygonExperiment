@@ -21,7 +21,7 @@ import javafx.scene.shape.VLineTo;
  * @author Zunayed Hassan
  */
 public class ShapeToPolygonConverter {
-    public ArrayList<Double> GetconvertedPolygonPoints(Shape shape) {
+    public ArrayList<Double> GetConvertedPolygonPoints(Shape shape) {
         ArrayList<Double> points = new ArrayList<>();
         
         // Rectangle

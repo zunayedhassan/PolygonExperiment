@@ -34,7 +34,7 @@ public class PolygonConverterViewModel {
                 for (Node node : _view.InputCanvas.getChildren()) {
                     if (node instanceof Shape) {
                         Shape shape = (Shape) node;
-                        ArrayList<Double> points = _shapeToPolygonConverter.GetconvertedPolygonPoints(shape);
+                        ArrayList<Double> points = _shapeToPolygonConverter.GetConvertedPolygonPoints(shape);
                         
                         if (shape instanceof Path) {
                             DrawPolylineFromPoints(points);
