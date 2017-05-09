@@ -23,3 +23,13 @@ Implementation of Lasso Tool on JavaFX
 Just look at the ```FreeHandSelector.java``` file and you will fugure this out.
 
 ![alt tag](https://raw.githubusercontent.com/zunayedhassan/Lasso-Tool-Example/master/preview.jpg)
+
+## Find Point within Polygon
+Find out if the given point is within the polygon
+
+## Note ##
+Algorithm is from:
+* PNPOLY - Point Inclusion in Polygon Test W. Randolph Franklin (WRF) 
+* http://www.ecse.rpi.edu/Homepages/wrf/Research/Short_Notes/pnpoly.html
+
+![ScreenShot](https://raw.githubusercontent.com/zunayedhassan/polygon_test/master/preview.png)
