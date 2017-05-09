@@ -32,4 +32,10 @@ Algorithm is from:
 * PNPOLY - Point Inclusion in Polygon Test W. Randolph Franklin (WRF) 
 * http://www.ecse.rpi.edu/Homepages/wrf/Research/Short_Notes/pnpoly.html
 
-![ScreenShot](https://github.com/zunayedhassan/PolygonExperiment/blob/master/FindPointWithinPolygon/preview.png?raw=true)
+![Find Point within Polygon ScreenShot](https://github.com/zunayedhassan/PolygonExperiment/blob/master/FindPointWithinPolygon/preview.png?raw=true)
+
+## Line Intersection
+
+Find out if the two line is intersected or not
+
+![Line Intersection](https://github.com/zunayedhassan/PolygonExperiment/blob/master/LineIntersection/preview.png)
