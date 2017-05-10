@@ -32,10 +32,18 @@ Algorithm is from:
 * PNPOLY - Point Inclusion in Polygon Test W. Randolph Franklin (WRF) 
 * http://www.ecse.rpi.edu/Homepages/wrf/Research/Short_Notes/pnpoly.html
 
-![Find Point within Polygon ScreenShot](https://github.com/zunayedhassan/PolygonExperiment/blob/master/FindPointWithinPolygon/preview.png?raw=true)
+![Find Point within Polygon preview](https://github.com/zunayedhassan/PolygonExperiment/blob/master/FindPointWithinPolygon/preview.png?raw=true)
 
 ## Line Intersection
 
 Find out if the two line is intersected or not
 
-![Line Intersection](https://github.com/zunayedhassan/PolygonExperiment/blob/master/LineIntersection/preview.png)
+![Line Intersection preview](https://github.com/zunayedhassan/PolygonExperiment/blob/master/LineIntersection/preview.png)
+
+## Polygon Union
+
+Unify two or more polygons into one single polygon
+
+Use ```PolygonExperiment/PolygonUnion/src/zunayedhassan/PolygonUnion/Model/PolygonUnionHelper.java``` file to unify polygons
+
+![Polygon Union preview](https://raw.githubusercontent.com/zunayedhassan/PolygonExperiment/master/PolygonUnion/preview.png)
