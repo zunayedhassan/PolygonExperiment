@@ -50,4 +50,6 @@ Use ```PolygonExperiment/PolygonUnion/src/zunayedhassan/PolygonUnion/Model/Polyg
 
 ## Check the Point Position on Polygon Border
 
+Use ```PolygonExperiment/CheckPointPositionOnPolygonBorder/src/zunayedhassan/CheckPointPositionOnPolygonBorder/Model/PolygonBorderPointsFinder.java``` file to find point on polygon border
+
 ![Check the Point Position on Polygon Border preview](https://raw.githubusercontent.com/zunayedhassan/PolygonExperiment/master/CheckPointPositionOnPolygonBorder/preview.png)
