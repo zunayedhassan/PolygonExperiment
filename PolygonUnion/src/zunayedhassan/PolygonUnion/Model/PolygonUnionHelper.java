@@ -27,8 +27,6 @@ public class PolygonUnionHelper {
                     previouslyMergedPolygonPoints = this._merge(polygons.get(i), polygons.get(++i));
                 }
                 else {
-                    System.out.println(previouslyMergedPolygon.getPoints().size() + " " + polygons.get(i).getPoints().size());
-                    
                     previouslyMergedPolygonPoints = this._merge(previouslyMergedPolygon, polygons.get(i));
                 }
                 
